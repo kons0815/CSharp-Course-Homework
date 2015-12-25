@@ -1,0 +1,9 @@
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\bin\Debug\[CS262]-GuessNumber2.exe.config
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\bin\Debug\[CS262]-GuessNumber2.exe
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\bin\Debug\[CS262]-GuessNumber2.pdb
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\[CS262]-GuessNumber2.csprojResolveAssemblyReference.cache
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\_CS262__GuessNumber2.Form1.resources
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\_CS262__GuessNumber2.Properties.Resources.resources
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\[CS262]-GuessNumber2.csproj.GenerateResource.Cache
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\[CS262]-GuessNumber2.exe
+C:\Users\kons\Desktop\CS262\[CS262]-GuessNumber2\[CS262]-GuessNumber2\obj\Debug\[CS262]-GuessNumber2.pdb
