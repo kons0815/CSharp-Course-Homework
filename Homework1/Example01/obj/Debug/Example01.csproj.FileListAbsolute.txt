@@ -1,0 +1,19 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\bin\Debug\Example01.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\bin\Debug\Example01.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\bin\Debug\Example01.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\bin\Debug\EmployeeLibrary.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\bin\Debug\EmployeeLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\obj\Debug\Example01.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\Example01\obj\Debug\Example01.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\bin\Debug\Example01.exe.config
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\obj\Debug\Example01.exe
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\obj\Debug\Example01.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\bin\Debug\Example01.exe
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\bin\Debug\Example01.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\bin\Debug\EmployeeLibrary.dll
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\bin\Debug\EmployeeLibrary.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\kons\Desktop\[CS262]2015-12-22_kons\[CS262]2015-12-22\Example01\bin\Debug\Example01.exe.config
+C:\Users\kons\Desktop\[CS262]2015-12-22_kons\[CS262]2015-12-22\Example01\obj\Debug\Example01.exe
+C:\Users\kons\Desktop\[CS262]2015-12-22_kons\[CS262]2015-12-22\Example01\obj\Debug\Example01.pdb

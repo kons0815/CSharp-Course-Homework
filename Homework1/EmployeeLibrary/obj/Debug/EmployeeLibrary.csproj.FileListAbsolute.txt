@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\user\Desktop\範例程式碼\[CS262]2015-12-22\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
