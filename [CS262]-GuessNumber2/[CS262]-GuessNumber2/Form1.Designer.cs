@@ -46,7 +46,6 @@
             this.inputAnswer3 = new System.Windows.Forms.TextBox();
             this.inputAnswer4 = new System.Windows.Forms.TextBox();
             this.identifyLabel = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.describeLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -73,7 +72,7 @@
             // 
             // showAnswerButton
             // 
-            this.showAnswerButton.Location = new System.Drawing.Point(314, 45);
+            this.showAnswerButton.Location = new System.Drawing.Point(168, 449);
             this.showAnswerButton.Name = "showAnswerButton";
             this.showAnswerButton.Size = new System.Drawing.Size(75, 23);
             this.showAnswerButton.TabIndex = 3;
@@ -84,7 +83,7 @@
             // answerLabel
             // 
             this.answerLabel.AutoSize = true;
-            this.answerLabel.Location = new System.Drawing.Point(395, 50);
+            this.answerLabel.Location = new System.Drawing.Point(249, 454);
             this.answerLabel.Name = "answerLabel";
             this.answerLabel.Size = new System.Drawing.Size(65, 12);
             this.answerLabel.TabIndex = 4;
@@ -158,7 +157,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(68, 106);
+            this.label4.Location = new System.Drawing.Point(46, 112);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(77, 12);
             this.label4.TabIndex = 25;
@@ -167,7 +166,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(329, 119);
+            this.label5.Location = new System.Drawing.Point(329, 112);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 12);
             this.label5.TabIndex = 26;
@@ -175,7 +174,7 @@
             // 
             // playerTryButton
             // 
-            this.playerTryButton.Location = new System.Drawing.Point(301, 186);
+            this.playerTryButton.Location = new System.Drawing.Point(421, 148);
             this.playerTryButton.Name = "playerTryButton";
             this.playerTryButton.Size = new System.Drawing.Size(75, 23);
             this.playerTryButton.TabIndex = 27;
@@ -210,24 +209,16 @@
             // identifyLabel
             // 
             this.identifyLabel.AutoSize = true;
-            this.identifyLabel.Location = new System.Drawing.Point(400, 191);
+            this.identifyLabel.Location = new System.Drawing.Point(359, 133);
             this.identifyLabel.Name = "identifyLabel";
-            this.identifyLabel.Size = new System.Drawing.Size(0, 12);
+            this.identifyLabel.Size = new System.Drawing.Size(35, 12);
             this.identifyLabel.TabIndex = 31;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(0, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(33, 12);
-            this.label2.TabIndex = 32;
-            this.label2.Text = "label2";
+            this.identifyLabel.Text = "------";
             // 
             // describeLabel
             // 
             this.describeLabel.AutoSize = true;
-            this.describeLabel.Location = new System.Drawing.Point(241, 228);
+            this.describeLabel.Location = new System.Drawing.Point(282, 183);
             this.describeLabel.Name = "describeLabel";
             this.describeLabel.Size = new System.Drawing.Size(53, 12);
             this.describeLabel.TabIndex = 33;
@@ -239,7 +230,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(521, 484);
             this.Controls.Add(this.describeLabel);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.identifyLabel);
             this.Controls.Add(this.inputAnswer4);
             this.Controls.Add(this.inputAnswer3);
@@ -286,7 +276,6 @@
         private System.Windows.Forms.TextBox inputAnswer3;
         private System.Windows.Forms.TextBox inputAnswer4;
         private System.Windows.Forms.Label identifyLabel;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label describeLabel;
     }
 }
